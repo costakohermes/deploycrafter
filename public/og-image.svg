@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#ecfdf5"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#059669"/>
+  <text x="600" y="280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="64" font-weight="800" fill="#064e3b" text-anchor="middle" dominant-baseline="middle">DeployCrafter</text>
+  <text x="600" y="360" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="400" fill="#064e3b99" text-anchor="middle" dominant-baseline="middle">Craft seamless deployments with zero-downtime confidence</text>
+  <circle cx="600" cy="500" r="60" fill="#05966915"/>
+  <text x="600" y="510" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="32" font-weight="700" fill="#059669" text-anchor="middle" dominant-baseline="middle">D</text>
+</svg>

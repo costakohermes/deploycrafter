@@ -1,0 +1,16 @@
+{
+  "name": "DeployCrafter",
+  "short_name": "DeployCrafter",
+  "description": "Craft seamless deployments with zero-downtime confidence",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ecfdf5",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
